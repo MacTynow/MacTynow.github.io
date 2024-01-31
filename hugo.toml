@@ -53,10 +53,10 @@ style = "github-dark"
   url = "https://www.linkedin.com/in/charlesmartinot/"
 
 # Menu links
-[[menu.main]]
-  name = "Blog"
-  weight = 1
-  url  = "posts/"
+# [[menu.main]]
+#   name = "Blog"
+#   weight = 1
+#   url  = "posts/"
 [[menu.main]]
   name = "About"
   weight = 2
