@@ -1,56 +1,55 @@
 baseurl = "http://www.mactynow.ovh"
-title = "mactynow"
-theme = "hugo-coder"
-languagecode = "en"
 defaultcontentlanguage = "en"
+languagecode = "en"
+theme = "hugo-coder"
+title = "mactynow"
 
 paginate = 20
 
-disqusShortname = "yourdiscussshortname"
+# disqusShortname = "yourdiscussshortname"
 
 [markup.highlight]
 style = "github-dark"
 
 [params]
-  author = "Charles Martinot"
-  info = "Backend and infrastructure engineer"
-  description = "Charles' personal website"
-  keywords = "blog,developer,personal"
-  avatarurl = "img/avatar.jpg"
-  #gravatar = "john.doe@example.com"
+author = "Charles Martinot"
+avatarurl = "img/avatar.jpg"
+description = "Charles' personal website"
+info = "Backend and infrastructure engineer"
+keywords = "blog,developer,personal"
 
-  faviconSVG = "/img/favicon.svg"
-  favicon_32 = "/img/favicon-32x32.png"
-  favicon_16 = "/img/favicon-16x16.png"
+faviconSVG = "/img/favicon.svg"
+favicon_16 = "/img/favicon-16x16.png"
+favicon_32 = "/img/favicon-32x32.png"
 
-  since = 2019
+since = 2019
 
-  enableTwemoji = true
+enableTwemoji = true
 
-  colorScheme = "auto"
-  hidecolorschemetoggle = false
+colorScheme = "auto"
+hidecolorschemetoggle = false
 
-  # customCSS = ["css/custom.css"]
-  # customSCSS = ["scss/custom.scss"]
-  # customJS = ["js/custom.js"]
+# customCSS = ["css/custom.css"]
+# customSCSS = ["scss/custom.scss"]
+# customJS = ["js/custom.js"]
 
 [taxonomies]
-  category = "categories"
-  series = "series"
-  tag = "tags"
-  author = "authors"
+author = "authors"
+category = "categories"
+series = "series"
+tag = "tags"
 
 # Social links
 [[params.social]]
-  name = "Github"
-  icon = "fa-brands fa-github fa-2x"
-  weight = 1
-  url = "https://github.com/mactynow/"
+icon = "fa-brands fa-github fa-2x"
+name = "Github"
+url = "https://github.com/mactynow/"
+weight = 1
 [[params.social]]
-  name = "Linkedin"
-  icon = "fa-brands fa-linkedin fa-2x"
-  weight = 2
-  url = "https://www.linkedin.com/in/charlesmartinot/"
+icon = "fa-brands fa-linkedin fa-2x"
+name = "Linkedin"
+url = "https://www.linkedin.com/in/charlesmartinot/"
+weight = 2
 
 # Menu links
 # [[menu.main]]
@@ -58,6 +57,10 @@ style = "github-dark"
 #   weight = 1
 #   url  = "posts/"
 [[menu.main]]
-  name = "About"
-  weight = 2
-  url = "about/"
+name = "About"
+url = "about/"
+weight = 2
+[[menu.main]]
+name = "Experience"
+url = "experience/"
+weight = 2
