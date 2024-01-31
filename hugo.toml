@@ -64,3 +64,6 @@ weight = 2
 name = "Experience"
 url = "experience/"
 weight = 2
+
+[params.googleTagManager]
+id = "G-P4FVCH7LXJ"
