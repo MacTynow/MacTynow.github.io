@@ -50,6 +50,11 @@ icon = "fa-brands fa-linkedin fa-2x"
 name = "Linkedin"
 url = "https://www.linkedin.com/in/charlesmartinot/"
 weight = 2
+[[params.social]]
+icon = "fa-brands fa-mastodon fa-2x"
+name = "Mastodon"
+url = "https://mastodon.social/@mactynow"
+weight = 3
 
 # Menu links
 # [[menu.main]]
