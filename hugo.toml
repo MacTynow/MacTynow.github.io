@@ -69,6 +69,10 @@ weight = 2
 name = "Experience"
 url = "experience/"
 weight = 2
+[[menu.main]]
+name = "Projects"
+url = "projects/"
+weight = 2
 
 [params.googleTagManager]
 id = "G-FE83YX9P57"
