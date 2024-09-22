@@ -14,7 +14,7 @@ Since ChatGPT came out, I've been following the news about LLMs and the exponent
 
 One possible lead to address some of these concerns by running smaller models that are designed to be run on a single machine, and I've been recently looking at [Ollama](https://ollama.com/) for this.
 
-Ollama allows you to run models locally, including Llama 3.1, Phi 3, Mistral, Gemma 2. These models are usually lighter versions of what you'd get using each of these through their APIs, as they're designed to run on a single machine (I use them on my MacBook), but they still perform very well. For example, I am here using mistral-nemo to help me with my Mandardin learning and asking me to give me 3 examples using a specific grammar pattern:
+Ollama allows you to run models locally, including Llama 3.1, Phi 3, Mistral, Gemma 2. These models are usually lighter, less "smart" versions of what you'd get from the companies backing them using their APIs. However they're designed to run on a single machine (I use them on my MacBook), but they still perform very well. For example, I am here using mistral-nemo to help me with my Mandardin learning and asking me to give me 3 examples using a specific grammar pattern:
 
 ```
 >>> 給我三個例句用「只要」
