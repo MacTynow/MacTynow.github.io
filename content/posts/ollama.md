@@ -14,7 +14,7 @@ Since ChatGPT came out, I've been following the news about LLMs and the exponent
 
 One possible lead to address some of these concerns by running smaller models that are designed to be run on a single machine, and I've been recently looking at [Ollama](https://ollama.com/) for this.
 
-Ollama allows you to run models locally, including Llama 3.1, Phi 3, Mistral, Gemma 2. These models are usually lighter, less "smart" versions of what you'd get from the companies backing them using their APIs. However they're designed to run on a single machine (I use them on my MacBook), but they still perform very well. For example, I am here using mistral-nemo to help me with my Mandardin learning and asking me to give me 3 examples using a specific grammar pattern:
+Ollama allows you to run models locally, including Llama 3.1, Phi 3, Mistral, Gemma 2. These models are usually lighter, less "smart" versions of what you'd get from the companies backing them using their APIs. However they're designed to run on a single machine (I use them on my MacBook), but they still perform very well. For example, I am here using mistral-nemo to help me with my Mandardin learning and asking it to give me 3 examples using a specific grammar pattern:
 
 ```
 >>> 給我三個例句用「只要」
@@ -37,4 +37,4 @@ Here are three examples using "只要":
 
 For coding related work, it is also possible to replace Github Copilot with Ollama and [Continue](https://www.continue.dev/), which makes it free and eliminates privacy concerns, especially in an enterprise environment.
 
-Running local models instead of using third party APIs can help address some of the concerns raised by LLMs, but not all of them, specifically the impact of training and the infamous hallucinations, which we probably will never completely get rid off. Seems like we'll still need humans around for a while!
+Running local models instead of using third party APIs can help address some of the concerns raised by LLMs, but not all of them, specifically the impact of training and the infamous hallucinations, which we probably will never completely get rid of. Seems like we'll still need humans around for a while!
