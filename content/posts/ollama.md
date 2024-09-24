@@ -37,4 +37,4 @@ Here are three examples using "只要":
 
 For coding related work, it is also possible to replace Github Copilot with Ollama and [Continue](https://www.continue.dev/), which makes it free and eliminates privacy concerns, especially in an enterprise environment.
 
-Running local models instead of using third party APIs can help address some of the concerns raised by LLMs, but not all of them, specifically the impact of training and the infamous hallucinations, which we probably will never completely get rid of. Seems like we'll still need humans around for a while!
+Running local models instead of using third party APIs can help address some of the concerns raised by LLMs: privacy issues, by not feeding them back to train the models on your data, and environmental impact, by using available local processing power instead of cloud resources. However, some others are not covered, specifically the impact of training, the infamous hallucinations, which we probably will never completely get rid of, and the ethical and future of content concerns, which are inherent to the use of LLMs in the first place. Seems like we'll still need humans around for a while!
