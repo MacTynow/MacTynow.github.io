@@ -6,6 +6,7 @@ draft = false
 # Work Experience
 
 - Taipei, Taiwan 🇹🇼 | 2024-Present
+    - Cloud Infrastructure Consultant @ [Grab](https://www.grab.com/)
     - Intensive Mandarin Chinese course @ [National Taiwan Normal University](http://mtc.ntnu.edu.tw/)
     - OpenAI powered Mandarin language exchange chatbot: [Taiwan Yuban](https://www.taiwanyuban.com/)
 - London, UK 🇬🇧 | 2022-2024
