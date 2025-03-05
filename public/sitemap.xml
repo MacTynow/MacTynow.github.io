@@ -2,11 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://www.mactynow.ovh/</loc>
+    <lastmod>2024-09-22T11:28:08+08:00</lastmod>
+  </url><url>
+    <loc>http://www.mactynow.ovh/posts/ollama/</loc>
+    <lastmod>2024-09-22T11:28:08+08:00</lastmod>
+  </url><url>
+    <loc>http://www.mactynow.ovh/posts/</loc>
+    <lastmod>2024-09-22T11:28:08+08:00</lastmod>
+  </url><url>
+    <loc>http://www.mactynow.ovh/experience/</loc>
+    <lastmod>2024-01-31T15:35:06+08:00</lastmod>
+  </url><url>
+    <loc>http://www.mactynow.ovh/about/</loc>
+    <lastmod>2024-01-31T10:19:26+08:00</lastmod>
+  </url><url>
     <loc>http://www.mactynow.ovh/authors/</loc>
   </url><url>
     <loc>http://www.mactynow.ovh/categories/</loc>
-  </url><url>
-    <loc>http://www.mactynow.ovh/</loc>
   </url><url>
     <loc>http://www.mactynow.ovh/series/</loc>
   </url><url>

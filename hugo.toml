@@ -53,7 +53,7 @@ weight = 2
 [[params.social]]
 icon = "fa-brands fa-mastodon fa-2x"
 name = "Mastodon"
-url = "https://mastodon.social/@mactynow"
+url = "https://defcon.social/@mactynow"
 weight = 3
 
 # Menu links
