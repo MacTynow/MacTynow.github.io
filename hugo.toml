@@ -55,6 +55,7 @@ icon = "fa-brands fa-mastodon fa-2x"
 name = "Mastodon"
 url = "https://defcon.social/@mactynow"
 weight = 3
+rel = "me"
 
 # Menu links
 # [[menu.main]]
