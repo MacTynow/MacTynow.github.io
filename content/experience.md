@@ -23,6 +23,7 @@ draft = false
         - Lead the effort on migrating Data Engineering services to Kubernetes, being the first team in Grab to successfully use it in production.
         - Participated in Golang backend development as part of an effort to overhaul the OVO services, and built the deployment pipelines to get fully automated deployments in GKE (GCP).
     - '16-'17: Senior devops engineer @ Honestbee
+        - Migrated services from AWS Beanstalk to Kubernetes, improving deployment speed by 100% and development velocity by 35%.
 - Bangkok, Thailand 🇹🇭 | 2013-2016
     - '15-'16: Game science devops @ [Activision](https://www.activision.com/) (contract)
     - '13-'15: Operations engineer @ Playlab
