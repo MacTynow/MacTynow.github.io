@@ -11,7 +11,7 @@ draft = false
         - Migrated Spark jobs and Airflow DAGs to a new company-wide platform.
     - Intensive Mandarin Chinese course @ [National Taiwan Normal University](http://mtc.ntnu.edu.tw/)
         - Achieved B2 level, conversational Chinese.
-    - OpenAI powered Mandarin language exchange chatbot: [Taiwan Yuban](https://www.taiwanyuban.kuojang.io/)
+    - OpenAI powered Mandarin language exchange chatbot: [Taiwan Yuban](https://taiwanyuban.kuojang.io/)
         - Developed and released an AI-powered language exchange bot, written in Golang and deployed on Vercel. Users could use common chat platforms (Telegram, Whatsapp...) to talk to the bot.
 - London, UK 🇬🇧 | 2022-2024
     - Infrastructure engineer @ [Mutiny](https://www.mutinyhq.com/)
