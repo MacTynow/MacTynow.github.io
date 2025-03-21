@@ -1,19 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on mactynow</title>
-    <link>http://www.mactynow.ovh/posts/</link>
-    <description>Recent content in Posts on mactynow</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Sun, 22 Sep 2024 11:28:08 +0800</lastBuildDate>
-    <atom:link href="http://www.mactynow.ovh/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Ollama</title>
-      <link>http://www.mactynow.ovh/posts/ollama/</link>
-      <pubDate>Sun, 22 Sep 2024 11:28:08 +0800</pubDate>
-      <guid>http://www.mactynow.ovh/posts/ollama/</guid>
-      <description>&lt;h1 id=&#34;ollama-a-response-to-some-ai-related-concerns&#34;&gt;&#xA;  Ollama: a response to some AI-related concerns?&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#ollama-a-response-to-some-ai-related-concerns&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Since ChatGPT came out, I&amp;rsquo;ve been following the news about LLMs and the exponentially increasing list of available models. While I recognise the potential and the technical achievement they represent, I am quite worried about what they mean for the future for several reasons:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.washingtonpost.com/technology/2024/09/18/energy-ai-use-electricity-water-data-centers/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Each query consumes a lot of resources&lt;/a&gt;, which is definitely not helping with climate change.&lt;/li&gt;&#xA;&lt;li&gt;What do they mean with regards to the future of content? Are we going to be mostly presented AI generated stuff in the future?&lt;/li&gt;&#xA;&lt;li&gt;How ethical is the training of the different models? Does it use copyrighted content? How to ensure it does not?&lt;/li&gt;&#xA;&lt;li&gt;What&amp;rsquo;s up with privacy when using server-side services like ChatGPT, Copilot etc which reuse user input to further train the models?&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;One possible lead to address some of these concerns by running smaller models that are designed to be run on a single machine, and I&amp;rsquo;ve been recently looking at &lt;a href=&#34;https://ollama.com/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ollama&lt;/a&gt; for this.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on mactynow</title><link>http://www.mactynow.ovh/posts/</link><description>Recent content in Posts on mactynow</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sun, 22 Sep 2024 11:28:08 +0800</lastBuildDate><atom:link href="http://www.mactynow.ovh/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Ollama</title><link>http://www.mactynow.ovh/posts/ollama/</link><pubDate>Sun, 22 Sep 2024 11:28:08 +0800</pubDate><guid>http://www.mactynow.ovh/posts/ollama/</guid><description>&lt;h1 id="ollama-a-response-to-some-ai-related-concerns">
+ Ollama: a response to some AI-related concerns?
+ &lt;a class="heading-link" href="#ollama-a-response-to-some-ai-related-concerns">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h1>
+&lt;p>Since ChatGPT came out, I&amp;rsquo;ve been following the news about LLMs and the exponentially increasing list of available models. While I recognise the potential and the technical achievement they represent, I am quite worried about what they mean for the future for several reasons:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.washingtonpost.com/technology/2024/09/18/energy-ai-use-electricity-water-data-centers/" class="external-link" target="_blank" rel="noopener">Each query consumes a lot of resources&lt;/a>, which is definitely not helping with climate change.&lt;/li>
+&lt;li>What do they mean with regards to the future of content? Are we going to be mostly presented AI generated stuff in the future?&lt;/li>
+&lt;li>How ethical is the training of the different models? Does it use copyrighted content? How to ensure it does not?&lt;/li>
+&lt;li>What&amp;rsquo;s up with privacy when using server-side services like ChatGPT, Copilot etc which reuse user input to further train the models?&lt;/li>
+&lt;/ul>
+&lt;p>One possible lead to address some of these concerns by running smaller models that are designed to be run on a single machine, and I&amp;rsquo;ve been recently looking at &lt;a href="https://ollama.com/" class="external-link" target="_blank" rel="noopener">Ollama&lt;/a> for this.&lt;/p></description></item></channel></rss>

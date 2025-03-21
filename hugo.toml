@@ -4,7 +4,8 @@ languagecode = "en"
 theme = "hugo-coder"
 title = "mactynow"
 
-paginate = 20
+[pagination]
+pagerSize = 20
 
 # disqusShortname = "yourdiscussshortname"
 
