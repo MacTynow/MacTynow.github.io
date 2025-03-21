@@ -27,6 +27,9 @@ draft = false
 - Bangkok, Thailand 🇹🇭 | 2013-2016
     - '15-'16: Game science devops @ [Activision](https://www.activision.com/) (contract)
     - '13-'15: Operations engineer @ Playlab
+- Paris, France 🇫🇷 | 2009-2012
+    - '12-'13: Application engineer @ [ADP](https://www.adp.com/)
+    - '09-'12: Systems engineer apprentice @ [Safran](https://www.safran-group.com/)
 
 # Education
 
