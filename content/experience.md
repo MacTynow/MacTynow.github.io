@@ -49,3 +49,7 @@ draft = false
 
 # Certifications
 - Certified Kubernetes Administrator (CKA) @ [CNCF](https://www.cncf.io/)
+
+# Talks
+
+- CDKTF AI in action @ [DevopsDays Singapore 2025](https://devopsdays.org/events/2025-singapore/program/bridging-aws-cdk-and-terraform)
